@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
+using Features_ConsoleApp.Events;
 
 namespace Features_ConsoleApp
 {
@@ -33,6 +33,9 @@ namespace Features_ConsoleApp
         static void Main(string[] args)
         {
             Delegates.demonstrate();
+
+            Event my_event = new Event();
+            my_event.demonstrate();
         }
     }
 }
