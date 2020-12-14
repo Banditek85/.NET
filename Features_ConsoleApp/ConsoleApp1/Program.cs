@@ -28,11 +28,30 @@ namespace Features_ConsoleApp
         }
     }
 
+    // Extension methods are created by creating static class with public static method. This method accepts parameter
+    // which has a type we are extending with keyword "this" in front + any additional parameters after.
+    static class ExtensionMethods
+    {
+        public static void compare(this string first_string, string second_string)
+        {
+            if (first_string == second_string)
+            {
+                Console.WriteLine("strings equal");
+            } else
+            {
+                Console.WriteLine("string not equal");
+            }
+        } 
+    }
+
     class Program
     {
         static void Main(string[] args)
         {
             Delegates.demonstrate();
+
+            string some_string = "champs";
+            some_string.compare("champs");
         }
     }
 }

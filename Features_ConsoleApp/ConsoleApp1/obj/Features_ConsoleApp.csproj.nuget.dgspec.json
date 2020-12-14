@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mitja\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Features_ConsoleApp.csproj": {}
+    "C:\\Users\\mitja\\Github\\.NET\\Features_ConsoleApp\\ConsoleApp1\\Features_ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mitja\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Features_ConsoleApp.csproj": {
+    "C:\\Users\\mitja\\Github\\.NET\\Features_ConsoleApp\\ConsoleApp1\\Features_ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mitja\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Features_ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\mitja\\Github\\.NET\\Features_ConsoleApp\\ConsoleApp1\\Features_ConsoleApp.csproj",
         "projectName": "Features_ConsoleApp",
-        "projectPath": "C:\\Users\\mitja\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Features_ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\mitja\\Github\\.NET\\Features_ConsoleApp\\ConsoleApp1\\Features_ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\mitja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mitja\\source\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\mitja\\Github\\.NET\\Features_ConsoleApp\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mitja\\AppData\\Roaming\\NuGet\\NuGet.Config",

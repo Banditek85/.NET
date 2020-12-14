@@ -11,3 +11,16 @@ C:\Users\mitja\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Feat
 C:\Users\mitja\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Features_ConsoleApp.dll
 C:\Users\mitja\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Features_ConsoleApp.pdb
 C:\Users\mitja\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Features_ConsoleApp.genruntimeconfig.cache
+C:\Users\mitja\Github\.NET\Features_ConsoleApp\ConsoleApp1\bin\Debug\netcoreapp3.1\Features_ConsoleApp.exe
+C:\Users\mitja\Github\.NET\Features_ConsoleApp\ConsoleApp1\bin\Debug\netcoreapp3.1\Features_ConsoleApp.deps.json
+C:\Users\mitja\Github\.NET\Features_ConsoleApp\ConsoleApp1\bin\Debug\netcoreapp3.1\Features_ConsoleApp.runtimeconfig.json
+C:\Users\mitja\Github\.NET\Features_ConsoleApp\ConsoleApp1\bin\Debug\netcoreapp3.1\Features_ConsoleApp.runtimeconfig.dev.json
+C:\Users\mitja\Github\.NET\Features_ConsoleApp\ConsoleApp1\bin\Debug\netcoreapp3.1\Features_ConsoleApp.dll
+C:\Users\mitja\Github\.NET\Features_ConsoleApp\ConsoleApp1\bin\Debug\netcoreapp3.1\Features_ConsoleApp.pdb
+C:\Users\mitja\Github\.NET\Features_ConsoleApp\ConsoleApp1\obj\Debug\netcoreapp3.1\Features_ConsoleApp.csprojAssemblyReference.cache
+C:\Users\mitja\Github\.NET\Features_ConsoleApp\ConsoleApp1\obj\Debug\netcoreapp3.1\Features_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\mitja\Github\.NET\Features_ConsoleApp\ConsoleApp1\obj\Debug\netcoreapp3.1\Features_ConsoleApp.AssemblyInfo.cs
+C:\Users\mitja\Github\.NET\Features_ConsoleApp\ConsoleApp1\obj\Debug\netcoreapp3.1\Features_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mitja\Github\.NET\Features_ConsoleApp\ConsoleApp1\obj\Debug\netcoreapp3.1\Features_ConsoleApp.dll
+C:\Users\mitja\Github\.NET\Features_ConsoleApp\ConsoleApp1\obj\Debug\netcoreapp3.1\Features_ConsoleApp.pdb
+C:\Users\mitja\Github\.NET\Features_ConsoleApp\ConsoleApp1\obj\Debug\netcoreapp3.1\Features_ConsoleApp.genruntimeconfig.cache
