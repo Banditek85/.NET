@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    "net5.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\MitjaSušec\\.nuget\\packages\\": {},
@@ -15,19 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\mitja\\Github\\.NET\\Features_ConsoleApp\\ConsoleApp1\\Features_ConsoleApp.csproj",
-      "projectName": "Features_ConsoleApp",
-      "projectPath": "C:\\Users\\mitja\\Github\\.NET\\Features_ConsoleApp\\ConsoleApp1\\Features_ConsoleApp.csproj",
-      "packagesPath": "C:\\Users\\mitja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mitja\\Github\\.NET\\Features_ConsoleApp\\ConsoleApp1\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\MitjaSušec\\GitHub\\.NET\\Features_ConsoleApp\\ConsoleApp1\\Features_ConsoleApp.csproj",
-      "projectName": "Features_ConsoleApp",
-      "projectPath": "C:\\Users\\MitjaSušec\\GitHub\\.NET\\Features_ConsoleApp\\ConsoleApp1\\Features_ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\MitjaSušec\\GitHub\\.NET\\C#\\Properties\\Properties.csproj",
+      "projectName": "Properties",
+      "projectPath": "C:\\Users\\MitjaSušec\\GitHub\\.NET\\C#\\Properties\\Properties.csproj",
       "packagesPath": "C:\\Users\\MitjaSušec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MitjaSušec\\GitHub\\.NET\\Features_ConsoleApp\\ConsoleApp1\\obj\\",
->>>>>>> f9dd0778d48271d61f0f15d1a074123329279919
+      "outputPath": "C:\\Users\\MitjaSušec\\GitHub\\.NET\\C#\\Properties\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -39,15 +31,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -58,8 +50,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
+      "net5.0": {
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",

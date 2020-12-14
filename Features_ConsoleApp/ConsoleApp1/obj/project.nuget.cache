@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "XKwEkeZWDsz/fjRT30M2Gu+5s3iNaXOi8dViPNMiBKIeFsn9r+L15Xpwac/LdkJza61gVU9DZ0JHvKAgnDwqkg==",
   "success": true,
   "projectFilePath": "C:\\Users\\mitja\\Github\\.NET\\Features_ConsoleApp\\ConsoleApp1\\Features_ConsoleApp.csproj",
+=======
+  "dgSpecHash": "hOF4b5OCX0tdu8FmzgMI9ibGFSaxzkyDixowCFbh+bGTY4lFKWS2L5Mx0JgIRkbvyKa8UWdh6Up6sPOkjGv9eQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MitjaSušec\\GitHub\\.NET\\Features_ConsoleApp\\ConsoleApp1\\Features_ConsoleApp.csproj",
+>>>>>>> f9dd0778d48271d61f0f15d1a074123329279919
   "expectedPackageFiles": [],
   "logs": []
 }

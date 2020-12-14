@@ -1,0 +1,16 @@
+C:\Users\MitjaSušec\GitHub\.NET\C#\Properties\bin\Debug\net5.0\Properties.exe
+C:\Users\MitjaSušec\GitHub\.NET\C#\Properties\bin\Debug\net5.0\Properties.deps.json
+C:\Users\MitjaSušec\GitHub\.NET\C#\Properties\bin\Debug\net5.0\Properties.runtimeconfig.json
+C:\Users\MitjaSušec\GitHub\.NET\C#\Properties\bin\Debug\net5.0\Properties.runtimeconfig.dev.json
+C:\Users\MitjaSušec\GitHub\.NET\C#\Properties\bin\Debug\net5.0\Properties.dll
+C:\Users\MitjaSušec\GitHub\.NET\C#\Properties\bin\Debug\net5.0\ref\Properties.dll
+C:\Users\MitjaSušec\GitHub\.NET\C#\Properties\bin\Debug\net5.0\Properties.pdb
+C:\Users\MitjaSušec\GitHub\.NET\C#\Properties\obj\Debug\net5.0\Properties.csprojAssemblyReference.cache
+C:\Users\MitjaSušec\GitHub\.NET\C#\Properties\obj\Debug\net5.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MitjaSušec\GitHub\.NET\C#\Properties\obj\Debug\net5.0\Properties.AssemblyInfoInputs.cache
+C:\Users\MitjaSušec\GitHub\.NET\C#\Properties\obj\Debug\net5.0\Properties.AssemblyInfo.cs
+C:\Users\MitjaSušec\GitHub\.NET\C#\Properties\obj\Debug\net5.0\Properties.csproj.CoreCompileInputs.cache
+C:\Users\MitjaSušec\GitHub\.NET\C#\Properties\obj\Debug\net5.0\Properties.dll
+C:\Users\MitjaSušec\GitHub\.NET\C#\Properties\obj\Debug\net5.0\ref\Properties.dll
+C:\Users\MitjaSušec\GitHub\.NET\C#\Properties\obj\Debug\net5.0\Properties.pdb
+C:\Users\MitjaSušec\GitHub\.NET\C#\Properties\obj\Debug\net5.0\Properties.genruntimeconfig.cache

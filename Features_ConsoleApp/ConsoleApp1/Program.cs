@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
+using Features_ConsoleApp.Events;
 
 namespace Features_ConsoleApp
 {
@@ -50,8 +50,13 @@ namespace Features_ConsoleApp
         {
             Delegates.demonstrate();
 
+<<<<<<< HEAD
             string some_string = "champs";
             some_string.compare("champs");
+=======
+            Event my_event = new Event();
+            my_event.demonstrate();
+>>>>>>> f9dd0778d48271d61f0f15d1a074123329279919
         }
     }
 }

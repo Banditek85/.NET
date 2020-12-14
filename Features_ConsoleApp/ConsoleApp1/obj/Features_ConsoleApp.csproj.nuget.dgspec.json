@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\mitja\\Github\\.NET\\Features_ConsoleApp\\ConsoleApp1\\Features_ConsoleApp.csproj": {}
   },
   "projects": {
@@ -12,10 +13,28 @@
         "projectPath": "C:\\Users\\mitja\\Github\\.NET\\Features_ConsoleApp\\ConsoleApp1\\Features_ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\mitja\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mitja\\Github\\.NET\\Features_ConsoleApp\\ConsoleApp1\\obj\\",
+=======
+    "C:\\Users\\MitjaSušec\\GitHub\\.NET\\Features_ConsoleApp\\ConsoleApp1\\Features_ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MitjaSušec\\GitHub\\.NET\\Features_ConsoleApp\\ConsoleApp1\\Features_ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MitjaSušec\\GitHub\\.NET\\Features_ConsoleApp\\ConsoleApp1\\Features_ConsoleApp.csproj",
+        "projectName": "Features_ConsoleApp",
+        "projectPath": "C:\\Users\\MitjaSušec\\GitHub\\.NET\\Features_ConsoleApp\\ConsoleApp1\\Features_ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\MitjaSušec\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MitjaSušec\\GitHub\\.NET\\Features_ConsoleApp\\ConsoleApp1\\obj\\",
+>>>>>>> f9dd0778d48271d61f0f15d1a074123329279919
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\mitja\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\MitjaSušec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
